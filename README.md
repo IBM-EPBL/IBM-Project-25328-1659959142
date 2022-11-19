@@ -38,5 +38,5 @@ Car Resale value Prediction
 <br>
 
 <h2> DEMO VIDEO LINK </h2>
-<p> Drive Link for Demo:  </p>
+<p> Drive Link for Demo: https://youtu.be/ypaNX57wcw8  </p>
 <br>
